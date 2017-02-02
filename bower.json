@@ -1,0 +1,24 @@
+{
+  "name": "tic-tac-react",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "ferzerkerx <ferzerkerx@gmal.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.4.2",
+    "bootstrap": "^3.3.7",
+    "babel": "^5.8.38"
+  }
+}
