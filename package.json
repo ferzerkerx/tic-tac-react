@@ -9,7 +9,7 @@
     "postinstall": "webpack"
   },
   "dependencies": {
-    "bootstrap": "4.0.0",
+    "bootstrap": "^4.1.2",
     "express": "^4.14.1",
     "popper.js": "^1.12.9",
     "react": "^15.4.2",
