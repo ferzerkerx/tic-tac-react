@@ -3,8 +3,8 @@ const CSS = [
     'bootstrap/dist/css/bootstrap.css'
 ];
 const JS = [
-    'react/dist/react.js',
-    'react-dom/dist/react-dom.js',
+    'react/index.js',
+    'react-dom/index.js',
     'bootstrap/dist/js/bootstrap.js'
 ];
 
